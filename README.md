@@ -1,1 +1,4 @@
-# expense_tracker
+In this project, we will build an Expense Tracker App using HTML, CSS, and JavaScript. This web application will help you keep track of your expenses and gain better control over your spending.
+We will start by creating the basic HTML file with a title, heading, form, and expense list container. Then, we will apply basic CSS styles to make it have appealing look. Next, we will capture form input, validate it, create an expense object, and store it in an array. We will then dynamically loop through the expense array and create HTML elements to display expenses. Finally, we will implement a delete functionality to remove expenses from the array and update the rendered list.
+Familiarity with concepts such as form handling, event handling, and DOM manipulation will be beneficial. Localhost, text editor and a web browser are also needed to run the code.
+By the end of this project,a functional web application that allows you to add and remove expenses, helping you gain better control over your spending will emerge.
